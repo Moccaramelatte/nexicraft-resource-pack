@@ -14,6 +14,16 @@
 			"type": "directory",
 			"source": "particle_custom",
 			"prefix": "particle_custom/"
-		}
+		},
+        {
+            "type": "minecraft:directory",
+            "prefix": "entity/pig/",
+            "source": "entity/pig"
+        },
+        {
+            "type": "minecraft:directory",
+            "prefix": "entity/cow/",
+            "source": "entity/cow"
+        }
     ]
 }
