@@ -1,0 +1,26 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:custom_model_data",
+    "cases": [
+      {
+        "when": "quiver_empty",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/quiver_empty"
+        }
+      },
+      {
+        "when": "quiver_full",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/quiver_full"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/poisonous_potato"
+    }
+  }
+}

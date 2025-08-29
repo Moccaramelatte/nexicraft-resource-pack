@@ -1,0 +1,19 @@
+{
+    "sources": [
+        {
+            "type": "directory",
+            "source": "cookbook",
+			"prefix": "cookbook/"
+        },
+        {
+            "type": "directory",
+            "source": "nutritionbook",
+			"prefix": "nutritionbook/"
+        },
+        {
+			"type": "directory",
+			"source": "particle_custom",
+			"prefix": "particle_custom/"
+		}
+    ]
+}
