@@ -1,0 +1,6 @@
+{
+  "parent": "nexia:block/cross_crop",
+  "textures": {
+    "cross": "block/mandrake_stage2"
+  }
+}
