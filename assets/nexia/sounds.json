@@ -1,7 +1,8 @@
 {
   "player.mandrake_scream": {
     "sounds": [
-      "nexia:mandrake_scream_held"
+      "nexia:mandrake_scream_held_1",
+      "nexia:mandrake_scream_held_2"
     ],
     "subtitle": "Mandrake Scream"
   }
