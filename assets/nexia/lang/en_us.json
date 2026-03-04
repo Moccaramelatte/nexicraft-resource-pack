@@ -1,3 +1,7 @@
 {
-    "death.attack.mandrake_bite": "%1$s was eaten by Mandrake"
+    "death.attack.mandrake_bite": "%1$s's ear-drum was broke by Mandrake",
+    "death.attack.mandrake_bite.player": "%1$s was eaten by %2$s",
+    "item.nexiworld.mandrake_slice": "Mandrake Slice",
+    "item.nexiworld.mandrake_soup": "Mandrake Soup",
+    "item.nexiworld.mandrake_omelette": "Mandrake Omelette"
 }
