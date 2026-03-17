@@ -5,5 +5,11 @@
       "nexia:mandrake_scream_held_2"
     ],
     "subtitle": "Mandrake Scream"
+  },
+  "neutral.momoi_kuyashi": {
+    "sounds": [
+      "nexia:momoi_kuyashi"
+    ],
+    "subtitle": "Momoi Kuyashi"
   }
 }
