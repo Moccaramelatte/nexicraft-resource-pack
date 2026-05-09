@@ -11,5 +11,11 @@
       "nexia:momoi_kuyashi"
     ],
     "subtitle": "Momoi Kuyashi"
+  },
+  "neutral.momoi_idle": {
+    "sounds": [
+      "nexia:momoi_idle"
+    ],
+    "subtitle": "Momoi Noise"
   }
 }

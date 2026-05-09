@@ -1,26 +1,19 @@
 {
-    "model": {
-      "type": "minecraft:select",
-      "property": "minecraft:custom_model_data",
-      "cases": [
-        {
-          "when": "11101",
-          "model": {
-            "type": "minecraft:model",
-            "model": "quiver:item/quiver_empty"
-          }
-        },
-        {
-          "when": "11102",
-          "model": {
-            "type": "minecraft:model",
-            "model": "quiver:item/quiver_full"
-          }
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:custom_model_data",
+    "cases": [
+      {
+        "when": "tasty_supplies/butter",
+        "model": {
+          "type": "minecraft:model",
+          "model": "tasty_supplies:item/butter"
         }
-      ],
-      "fallback": {
-        "type": "minecraft:model",
-        "model": "minecraft:item/poisonous_potato"
       }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/poisonous_potato"
     }
   }
+}

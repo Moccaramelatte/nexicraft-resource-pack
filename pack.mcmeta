@@ -1,9 +1,9 @@
 {
   "pack": {
-    "pack_format": 75,
+    "pack_format": 84,
     "description": "Combined Nexicraft Resource",
     "min_format": 75,
-    "max_format": 75
+    "max_format": 84
   },
-  "id": "missing_1"
+  "id": "nexicraft_combine"
 }

@@ -1,1 +1,6 @@
-{"parent": "minecraft:item/generated", "textures": {"layer0": "tasty_supplies:item/apple_cider"}}
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "tasty_supplies:item/apple_cider"
+  }
+}
