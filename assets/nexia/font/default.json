@@ -1,0 +1,49 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "nexia:font/rank/rank_member.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "nexia:font/rank/rank_admin.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "nexia:font/rank/rank_bot.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "nexia:font/rank/rank_dev.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "nexia:font/rank/rank_foreman.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                ""
+            ]
+        }
+    ]
+}
