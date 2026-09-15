@@ -1,0 +1,14 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "ascent": 8,
+            "chars": [
+                "",
+                ""
+            ],
+            "file": "nexia:font/chat/platform.png",
+            "height": 10
+        }
+    ]
+}
