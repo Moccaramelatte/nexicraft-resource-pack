@@ -14,7 +14,13 @@
             "ascent": 8,
             "chars": [
                 "",
-                ""
+                "\u0000",
+                "\u0000",
+                "\u0000",
+                "\u0000",
+                "\u0000",
+                "\u0000",
+                "\u0000"
             ],
             "file": "minecraft:font/chat/rank.png",
             "height": 10

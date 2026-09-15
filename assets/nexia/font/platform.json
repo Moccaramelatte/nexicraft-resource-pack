@@ -5,7 +5,13 @@
             "ascent": 8,
             "chars": [
                 "",
-                ""
+                "",
+                "\u0000",
+                "\u0000",
+                "\u0000",
+                "\u0000",
+                "\u0000",
+                "\u0000"
             ],
             "file": "nexia:font/chat/platform.png",
             "height": 10
